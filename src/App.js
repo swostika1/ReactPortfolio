@@ -1,13 +1,10 @@
-import logo from './logo.svg';
-import Hero from '../Hero';
-import './App.css';
+import React from 'react'
 
 function App() {
-  return (
-    <div className="App">
-      <Hero / >
-    </div>
-  );
-}
+  return 
+    <div> App</div>;
+    <h1> hi </h1>;
+ 
+};
 
 export default App;
